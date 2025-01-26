@@ -32,7 +32,7 @@ END
 
 ; ==============================
 
-PRO FINDSTARS_HOLO, field, chip
+PRO FINDSTARS, field, chip
 
 
 band = 'H'
