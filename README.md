@@ -12,6 +12,7 @@ corresponding weights in "../weights/".
 # (1) bgcorrect.py
 
 Find and correct sky offset (there may be negativities because of Hervé's pipeline.
+Application of this code is optional and typically not necessary.
 
 # (2) lxp.py
 
