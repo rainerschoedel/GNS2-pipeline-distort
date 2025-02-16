@@ -22,7 +22,7 @@ Create a long exposure mosaic image.
 
 Find stars in long expoure image. Do this for the four chips to be able to run the code in parallel.
 
-# (4) make_cubes.py
+# (4) subcubes.py
 
 Create sub-cubes.
 
